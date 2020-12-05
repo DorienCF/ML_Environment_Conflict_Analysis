@@ -1,12 +1,6 @@
 Conflict Name,Year Start,Year End,Country A,Country B,Country C,Country D,Country E,Country F,Country A Civil Liberties,Country B Civil Liberties,Country C Civil Liberties,Country D Civil Liberties,Country E Civil Liberties,Country F Civil Liberties,Country A Military Spending,Country B Military Spending,Country C Military Spending,Country D Military Spending,Country E Military Spending,Country F Military Spending ,Country A GDP ,Country B GDP,Country C GDP,Country D GDP,Country E GDP,Country F GDP,Conflict Confidence Ratting 
-Iraq War,2003,2011,United States,Iraq,Iran,United Kingdom,Japan,Turkey,1,5,6,1,2,4,3.61,,2.41,2.3,0.96,3.3,13339.3,64.7,371.5,2286.4,5459.2,550.6,TRUE
 Afganistan War,2001,2014,Afghanistan,United States,United Kingdom,Turkey,Germany,France,7,1,2,5,2,2,,2.94,2.17,3.6,1.41,2.42,,12746.3,2163.4,489.9,3171.3,2379.8,TRUE
-Six Day War,1967,1967,Israel,Egypt,Syria,Jordan,Iraq,Lebanon,,,,,,,15.44,8.91,8.21,22.49,8.43,4.48,30.5,23,,,,,TRUE
 Persian Gulf War,1990,1991,United States ,United Kingdom,Saudi Arabia,Egypt,France,Iraq,1,2,6,4,2,5,5.28,3.56,14.02,3.47,3.34,,9001.2,1642.7,293.9,87.4,1894.1,71.3,TRUE
 Iran-Iraq War,1980,1988,Iran,Iraq,United States,France,Israel,United Kingdom,5,7,1,2,2,1,5.34,5.51,4.96,3.76,18.92,4.49,185.1,45.7,6496.3,1482.6,69.9,1231.3,TRUE
-Yom Kippur War,1973,1973,Israel,Egypt,Syria,,,,3,6,7,,,,27.89,13.51,15.07,,,,54.6,28,,,,,TRUE
-Russo-Georgian War,2008,2008,Russia,Georgia,,,,,5,4,,,,,3.15,8.52,,,,,1582.7,12,,,,,TRUE
-FALSE CASE 1,1975,1975,Zimbabwe,Luxembourg,Italy,Brazil,Mexico,Netherlands,5,1,2,5,3,1,3.4,0.96,1.98,1.97,0.57,2.84,8.7,13.9,1111.1,729.6,385.4,376.4,FALSE
+Yom Kippur War,1973,1973,Israel,Egypt,Syria,,,,3,6,7,0,0,0,27.89,13.51,15.07,0,0,0,54.6,28,,0,0,0,TRUE
 FALSE CASE 2,1985,1985,Costa Rica,China ,Djibouti,Poland,United States,Panama,1,6,6,5,1,3,0,,,3.02,6.45,,12.2,564.9,,,18273.2,50.06,FALSE
-FALSE CASE 3,1995,1995,Syria,Cambodia,Swaziland,Algeria,Uganda,Qatar,7,7,5,4,5,5,6.87,2.07,1.28,1.46,2.97,10.74,,,2.3,92,6.9,,FALSE
-FALSE CASE 4,2012,2012,Costa Rica,United States,United Kingdom,Switzerland,Egypt,India,1,1,1,1,5,3,0,4.48,2.19,0.69,1.65,2.54,40.7,15567,2550.5,599.6,227.7,1859.7,FALSE
