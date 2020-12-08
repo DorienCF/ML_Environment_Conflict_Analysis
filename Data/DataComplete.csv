@@ -1,0 +1,8 @@
+Conflict Name,Year Start,Year End,Country A,Country B,Country C,Country D,Country E,Country F,Country A Civil Liberties,Country B Civil Liberties,Country C Civil Liberties,Country D Civil Liberties,Country E Civil Liberties,Country F Civil Liberties,Country A Military Spending,Country B Military Spending,Country C Military Spending,Country D Military Spending,Country E Military Spending,Country F Military Spending ,Country A GDP ,Country B GDP,Country C GDP,Country D GDP,Country E GDP,Country F GDP,Conflict Confidence Ratting 
+Iraq War,2003,2011,United States,Iraq,Iran,United Kingdom,Japan,Turkey,1,5,6,1,2,4,3.61,NULL,2.41,2.3,0.96,3.3,13339.3,64.7,371.5,2286.4,5459.2,550.6,1
+Afganistan War,2001,2014,Afghanistan,United States,United Kingdom,Turkey,Germany,France,7,1,2,5,2,2,NULL,2.94,2.17,3.6,1.41,2.42,NULL,12746.3,2163.4,489.9,3171.3,2379.8,1
+Six Day War,1967,1967,Israel,Egypt,Syria,Jordan,Iraq,Lebanon,NULL,NULL,NULL,NULL,NULL,NULL,15.44,8.91,8.21,22.49,8.43,4.48,30.5,23,NULL,NULL,NULL,NULL,1
+Persian Gulf War,1990,1991,United States ,United Kingdom,Saudi Arabia,Egypt,France,Iraq,1,2,6,4,2,5,5.28,3.56,14.02,3.47,3.34,NULL,9001.2,1642.7,293.9,87.4,1894.1,71.3,1
+Iran-Iraq War,1980,1988,Iran,Iraq,United States,France,Israel,United Kingdom,5,7,1,2,2,1,5.34,5.51,4.96,3.76`,18.92,4.49,185.1,45.7,6496.3,1482.6,69.9,1231.3,1
+Yom Kippur War,1973,1973,Israel,Egypt,Syria,NULL,NULL,NULL,3,6,7,0,0,0,27.89,13.51,15.07,0,0,0,54.6,28,NULL,0,0,0,1
+Russo-Georgian War,2008,2008,Russia,Georgia,NULL,NULL,NULL,NULL,5,4,0,0,0,0,3.15,8.52,0,0,0,0,1582.7,12,0,0,0,0,1
